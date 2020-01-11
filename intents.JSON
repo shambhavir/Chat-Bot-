@@ -1,0 +1,8 @@
+{"intents": [
+
+{"tag" : "order", "patterns": ["greens", "grains", "mix", "protein", "tofu", "tomatoes"],
+"context_set": ""}
+]
+
+}
+
